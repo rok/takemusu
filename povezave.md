@@ -1,11 +1,11 @@
----
+﻿---
 layout: page
 title: Povezave
 ---
 ## Klubi v zvezi Takemusu Slovenija
 
 * [Ljubljana](http://)
-* [Kranj in �kofja Loka](http://iwamaryuaikido.si/)
+* [Kranj in Škofja Loka](http://iwamaryuaikido.si/)
 * [Ptuj](http://aikido-kaiso.si/)
 
 ## Drugi klubi

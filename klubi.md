@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Klubi
 ---
@@ -6,5 +6,5 @@ title: Klubi
 
 * [Logatec](http://takemusu.si/)
 * [Ljubljana](http://)
-* [Kranj in �kofja Loka](http://iwamaryuaikido.si/)
+* [Kranj in Škofja Loka](http://iwamaryuaikido.si/)
 * [Ptuj](http://aikido-kaiso.si/)
