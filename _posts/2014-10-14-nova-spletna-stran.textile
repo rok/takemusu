@@ -1,0 +1,10 @@
+---
+layout: post
+title: Nova spletna stran
+tag: Logatec
+location: Logatec
+---
+
+*Postavili smo novo spletno stran*
+
+Tukaj bo besedilo.
