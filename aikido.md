@@ -1,7 +1,8 @@
-﻿---
-layout: page
-title: Aikido
 ---
+layout: page
+title: About
+---
+
 ### Aikido
 
 Osensei, Morihei Ueshiba
