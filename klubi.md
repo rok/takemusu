@@ -4,10 +4,10 @@ title: Klubi
 ---
 ## Aikido Klub Logatec
 
-* *Naslov:* Blekova vas 60, Logatec
+* *Glavni inštruktor:* Daniel Krivec, 1. dan
+* *Lokacija treningov:* Blekova vas 60, Logatec
 * *Telefon:* +386 41 974 125 (Daniel)
 * *[Spletna stran](http://www.takemusu.si)*
-* *Glavni inštruktor:* Daniel Krivec, 1. dan
 
 ### Trening - odrasli
 
@@ -26,10 +26,10 @@ title: Klubi
 
 ## Klub Iwama Ryu Aikido, Kranj
 
-* *Naslov*: Ekonomsko-trgovska šola, Cesta Staneta Žagarja 33, 4000 Kranj
+* *Glavni inštruktor*: Peter Babarović
+* *Lokacija treningov*: Ekonomsko-trgovska šola, Cesta Staneta Žagarja 33, 4000 Kranj
 * *Telefon:* 051 417 481 (Peter)
 * *[Spletna stran](http://iwamaryuaikido.si/)*
-* *Glavni inštruktor*: Peter Babarović
 
 ### Trening - odrasli
 
@@ -47,10 +47,10 @@ title: Klubi
 
 ## Klub Iwama Ryu Aikido, Škofja Loka
 
-* *Naslov*: ŠD Poden - mini dvorana, Podlubnik 1C, 4220 Škofja Loka
+* *Glavni inštruktor*: Peter Babarović
+* *Lokacija treningov*: ŠD Poden - mini dvorana, Podlubnik 1C, 4220 Škofja Loka
 * *Telefon:* 051 417 481 (Peter)
 * *[Spletna stran](http://iwamaryuaikido.si/)*
-* *Glavni inštruktor*: Peter Babarović
 
 ### Trening - odrasli
 
@@ -72,10 +72,10 @@ title: Klubi
 
 ## Aikido klub Kaiso, Ptuj
 
-* *Naslov*: Telovadnica OŠ Ljudevita Pivka, Raičeva ulica 2, 2250 Ptuj
+* *Glavni inštruktor*: Tomaž Majcenovič
+* *Lokacija treningov*: Telovadnica OŠ Ljudevita Pivka, Raičeva ulica 2, 2250 Ptuj
 * *Telefon:* 051 426 191 (Tomaž)
 * *[Spletna stran](http://aikido-kaiso.si/)*
-* *Glavni inštruktor*: Tomaž Majcenovič
 
 ### Trening
 
