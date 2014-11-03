@@ -3,8 +3,6 @@ layout: page
 title: Aikido
 ---
 
-TAKEMUSU AIKIDO
-
 Aikido je japonska borilna veščina, ki je nastala v prvi polovici prejšnjega stoletja. Njen ustanovitelj, O'Sensei Morihei Ueshiba, se je v svoji mladosti intenzivno posvečal vadbi klasičnih japonskih borilnih veščin kot sta Daito Ryu Aiki Jujutsu in Kenjutsu, katerih prvine najdemo tudi v Aikidu, ki ga je Morihei Ueshiba razvil v svojih srednjih letih.
 
 Morihei Ueshiba se je rodil 14. janurja 1883 v mestu Tanabe v japonski pokrajini Wakayama.
