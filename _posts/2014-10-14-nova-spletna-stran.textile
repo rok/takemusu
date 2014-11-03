@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Nova spletna stran
-tag: Logatec
+title: Prvi Takemusu Aikido poletni tabor
+tag: Novice
 location: Logatec
 ---
 
-*Postavili smo novo spletno stran*
-
-Tukaj bo besedilo.
+Od 12. do 17. julija je v našem doju potekal poletni tabor Takemusu aikida pod vodstvom mojstra Francesca Corallinija.
