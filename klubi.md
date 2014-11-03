@@ -2,8 +2,6 @@
 layout: page
 title: Klubi
 ---
-# Klubi v zvezi Takemusu Slovenija
-
 ## Aikido Klub Logatec
 
 * *Naslov:* Blekova vas 60, Logatec
@@ -85,5 +83,3 @@ title: Klubi
 |:-----------|:-------------:|
 | Ponedeljek | 20:00 - 21:30 |
 | Sreda      | 20:00 - 21:30 |
-
-## Ljubljana
