@@ -7,7 +7,7 @@ title: Klubi
 * *Glavni inštruktor:* Daniel Krivec
 * *Lokacija treningov:* Blekova vas 60, Logatec
 * *Telefon:* +386 41 974 125 (Daniel)
-* *[Spletna stran](http://www.takemusu.si)*
+* *[Spletna stran](http://www.takemusu.si/logatec)*
 
 ### Trening - odrasli
 
