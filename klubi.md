@@ -6,7 +6,7 @@ title: Klubi
 
 * *Naslov:* Blekova vas 60, Logatec
 * *Telefon:* +386 41 974 125 (Daniel)
-* *Spletna stran:* http://www.takemusu.si
+* *[Spletna stran](http://www.takemusu.si)*
 * *Glavni inštruktor:* Daniel Krivec, 1. dan
 
 ### Trening - odrasli
@@ -28,7 +28,7 @@ title: Klubi
 
 * *Naslov*: Ekonomsko-trgovska šola, Cesta Staneta Žagarja 33, 4000 Kranj
 * *Telefon:* 051 417 481 (Peter)
-* *Spletna stran:* http://iwamaryuaikido.si/
+* *[Spletna stran](http://iwamaryuaikido.si/)*
 * *Glavni inštruktor*: Peter Babarović
 
 ### Trening - odrasli
@@ -49,7 +49,7 @@ title: Klubi
 
 * *Naslov*: ŠD Poden - mini dvorana, Podlubnik 1C, 4220 Škofja Loka
 * *Telefon:* 051 417 481 (Peter)
-* *Spletna stran:* http://iwamaryuaikido.si/
+* *[Spletna stran](http://iwamaryuaikido.si/)*
 * *Glavni inštruktor*: Peter Babarović
 
 ### Trening - odrasli
@@ -74,7 +74,7 @@ title: Klubi
 
 * *Naslov*: Telovadnica OŠ Ljudevita Pivka, Raičeva ulica 2, 2250 Ptuj
 * *Telefon:* 051 426 191 (Tomaž)
-* *Spletna stran:* http://aikido-kaiso.si/
+* *[Spletna stran](http://aikido-kaiso.si/)*
 * *Glavni inštruktor*: Tomaž Majcenovič
 
 ### Trening
