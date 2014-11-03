@@ -3,32 +3,28 @@ layout: page
 title: Aikido
 ---
 
-### Aikido
+TAKEMUSU AIKIDO
 
-Osensei, Morihei Ueshiba
+Aikido je japonska borilna veščina, ki je nastala v prvi polovici prejšnjega stoletja. Njen ustanovitelj, O'Sensei Morihei Ueshiba, se je v svoji mladosti intenzivno posvečal vadbi klasičnih japonskih borilnih veščin kot sta Daito Ryu Aiki Jujutsu in Kenjutsu, katerih prvine najdemo tudi v Aikidu, ki ga je Morihei Ueshiba razvil v svojih srednjih letih.
 
-This text was machine translated and may not be accurate.
+Morihei Ueshiba se je rodil 14. janurja 1883 v mestu Tanabe v japonski pokrajini Wakayama.
 
-Aikido is a Japanese martial art that has occurred in the first half of last century. Its founder, Morihei Ueshiba O’Sensei, had devoted his youth, intensive practice of classical Japanese martial arts such as Daito Ryu Aiki jujutsu and Kenjutsu, whose elements are also found in Aikidu by Morihei Ueshiba developed in their middle age.
+V prvi polovici 20. stoletja se je Morihei Ueshiba preselil na Hokaido, kjer je srečal Sokaka Takedo, mojstra Daito Ryu Aikijujutsa in postal njegov učenec. Prav ta veščina je najbolj vplivala na tehnično obliko Aikida. Kmalu zatem je mladi Ueshiba spoznal še drugo pomembno osebnost v njegovem življenju, Onsiabura Deguchija. Onisaburo Deguchi je bil karizmatični vodja takratne religije Omote, katere načela so tudi vtkana v filozofijo Aikida. Osnovno načelo Aikida je spoštovanje vseh živih bitij in nazor, da se proti nasilju borimo z nenasiljem.
 
-Morihei Ueshiba was born on 14th janurja 1883 in the Japanese city Tanabe Wakayama province.
+O'Sensejev (O'Sensei - Ustanovitelj, Veliki učitelj) najzvestejši učenec je bil Morihiro Saito, ki je svoje življenje posvetil učenju izvirnih tehnik Aikida in s tem prenosu duha ter bistva Aikida na mlajše generacije in to na enak način, kot jih je bil njemu predajal O'Sensei Morihei Ueshiba.
 
-In the first half of the 20th century was Morihei Ueshiba moved to Hokkaido, where he met Takedo alley, Daito Ryu Aikijujutsa master and became his disciple. It is this skill has the most impact on the technical form of Aikido. Soon after the young Ueshiba learned another important figure in his life, Onsiabura Deguchija. Deguchi Onisaburo charismatic leader was then religion packs and whose principles are woven into the philosophy of Aikido. The basic principle of Aikido is that all living creatures and the opinion that the fight against violence through non-violence.
+ V Iwami, mali japonski vasici, je Morihiro Saito živel skupaj z mojstrom Ueshibo, kjer je v vseh vidikih vsakdanjega življenja sodeloval z O'Sensejem in ob pomoči svoje družine 23 let skrbel za O'Senseja in njegovo soprogo. V takih okoliščinah je bilo Saitu dano trenirati z O'Sensejem, veliko tudi individualno. Ko je vadil s Saitom, je O'Sensei izpopolnjeval in plemenitil tehnike in tako neprestano razvijal Aikido. 
 
-O’Sensejev (O’Sensei – Founder, Grand Master) was the most trusted student Morihiro Saito, who has dedicated his life to learning the authentic techniques of Aikido and the transfer of the spirit and essence of Aikido in the younger generation and this in the same way as it was O’Sensei indulged him Morihei Ueshiba.
+Zahvaljujoč svojim izkušnjam in bližini O'Senseju je Saito, povsem upravičeno, postal pomembna osebnost v razvojnem procesu Aikida. Saito ni bil le O'Sensejev uke (partner pri treningu), pač pa je tudi pomagal pri sistematizaciji tehnik, z namenom, da bi bile te čim bolj razumljive in dostopne. Velja tudi poudariti, da je omenjena sistematizacija potekala s privoljenjem in pod budnim očesom O'Senseja Moriheja Ueshibe. Saito Sensei je bil tudi edina oseba, ki ji je Morihei Ueshiba dovolil učiti tehnike z orožjemm (Aiki ken in Aiki jo).
 
-The Iwami, small Japanese village, Morihiro Saito has lived together with the master Ueshibo, where in all aspects of everyday life O’Sensejem and collaborated with the assistance of his family 23 years to take care of O’Senseja and his wife. In such circumstances, it was given to train the Saitu O’Sensejem, much as an individual. When practicing with Saitom, O’Sensei perfected the art and precious and so is constantly developing Aikido.
+V Sloveniji danes deluje en Takemusu Aikido klub pod pokroviteljstvom  Senseja Paola Corallinija in pod vodstvom Senseja Oliverja Antauerja, ki je njegov zastopnik za Slovenijo. Oba sta člana federacije Aikikai.
 
-Thanks to his experience and the proximity of the O’Senseju Saito, quite rightly, became an important figure in the development process of Aikido. Saito was not only O’Sensejev UKE (training partner), but also help in systematization of techniques, in order that they would make more understandable and accessible. It shall also be noted that the mentioned systematization took place with the consent and under the watchful eye of O’Senseja Moriheja Ueshiba. Saito Sensei was the only person who has permission to teach Morihei Ueshiba orožjemm techniques (Aiki Ken and Aiki s).
+Corallini Sensei je bil učenec Saita Senseja vse do Saitove smrti leta 2002. Skupaj s Sensejem Ulfom Evenåsom je, po Saitovi smrti, eden od najbolj cenjenih Aikido Shihanov. Je tudi Saitov naslednik in predstavnik Takemnusu Aikida v svetu.
 
-In Slovenia today are two Takemusu Aikido Club under the auspices of Paola Senseja Corallinija and led Senseja Antauerja Oliver and Daniel Senseja culprit.
+Aikido je borilna veščina, ki izkorišča pravi trenutek, medprostor in energijo napadalca tako, da bi ga le ta spravila iz ravnotežja in s tem kontrolirala napad. Poleg tehnik z golimi rokami (angleško "Empty Handed Technique") treniramo tudi z lesenim mečem (ken) in leseno palico (jo).
 
-Corallini Sensei was a student of Saitama Saitove Senseja until death in 2002. Together with Ulf Sensejem Evenasom, after Saitovi death, one of the most popular Aikido Shihanov. It is also the successor to and representative of Saitov Takemusu Aikido in the world.
+ Z redno vadbo te plemenite borilne veščine dobrodejno delujemo na mnoge fiziološke, intelektualne in duhovne vidike našega bitja.
 
-Aikido is a martial art that uses the perfect time and energy interspace attacker so that it would only be off balance and thus control the attack. In addition to techniques with their bare hands (the English “Empty handed Technique”) anymore with a wooden sword (ken) and a wooden stick (s).
+ Gibanje, ki ga vadimo med treningom Aikida deluje vzpodbudno na razvoj koordinacije in prožnosti ter izboljšuje ravnotežje in reflekse. Energična vadba, ki je zasnovana na način, ki je ugoden za osebe vseh starosti, razvija fizično pripravljenost na uravnotežen in prožen način.
 
-With regular practice of this noble martial arts act in many beneficial physiological, intellectual and spiritual aspects of our beings.
-
-Movement, which we practice during training Aikido works encouraging the development of coordination and flexibility and improves balance and reflexes. Energetic workout that is designed in a way that is beneficial to people of all ages to develop physical fitness in a balanced and flexible manner.
-
-Aikido also helps to develop and consolidate the properties such as respect for oneself and others, dedication, perseverance, humility and knowledge of self-worth. For serious and effective Aikido potrbujemo studies, environment and mood, but they achieve an understanding of rules of conduct in the dojo, this is the place where training takes place.
+Aikido prav tako pomaga razviti in utrditi lastnosti kot so spoštovanje do sebe in drugih, predanost, vztrajnost, skromnost in poznavanje lastne vrednosti. Za resen in učinkovit študij Aikida potrbujemo primerno okolje in razpoloženje, ki pa ju dosežemo s poznavanjem pravil obnašanja v doju, to je v prostoru, kjer se odvija trening.
