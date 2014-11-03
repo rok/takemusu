@@ -4,7 +4,7 @@ title: Klubi
 ---
 ## Aikido Klub Logatec
 
-* *Glavni inštruktor:* Daniel Krivec, 1. dan
+* *Glavni inštruktor:* Daniel Krivec
 * *Lokacija treningov:* Blekova vas 60, Logatec
 * *Telefon:* +386 41 974 125 (Daniel)
 * *[Spletna stran](http://www.takemusu.si)*
