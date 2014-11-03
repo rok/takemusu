@@ -12,6 +12,7 @@ title: Klubi
 * *Glavni inštruktor:* Daniel Krivec, 1. dan
 
 ##### Trening - odrasli
+
 | Dan        | Ura           |
 |:-----------|:-------------:|
 | Ponedeljek | 20:00 - 22:00 |
@@ -19,6 +20,7 @@ title: Klubi
 | Četrtek    | 20:00 - 22:00 |
 
 ##### Trening - otroci
+
 | Dan        | Ura           |
 |:-----------|:-------------:|
 | Torek      | 19:00 - 20:00 |
@@ -34,11 +36,13 @@ title: Klubi
 * *Glavni inštruktor*: Peter Babarović
 
 ##### Trening - odrasli
+
 | Dan   | Skupina              | Ura           |
 |:------|:---------------------|:-------------:|
 | Torek | Začetna skupina      | 19:00 - 21:00 |
 
 ##### Trening - otroci
+
 | Dan     | Skupina                      | Ura           |
 |:--------|:-----------------------------|:-------------:|
 | Torek   | Mlajši otroci (5 - 8 let)    | 17:00 - 19:00 |
@@ -53,6 +57,7 @@ title: Klubi
 * *Glavni inštruktor*: Peter Babarović
 
 ##### Trening - odrasli
+
 | Dan   | Skupina              | Ura           |
 |:------|:---------------------|:-------------:|
 | Sreda | Začetna skupina      | 19:00 - 20:00 |
@@ -63,6 +68,7 @@ title: Klubi
 | Petek | Napredna skupina     | 21:30 - 22:00 |
 
 ##### Trening - otroci
+
 | Dan        | Ura           |
 |:-----------|:-------------:|
 | Ponedeljek | 17:00 - 19:00 |
@@ -76,6 +82,7 @@ title: Klubi
 * *Glavni inštruktor*: Tomaž Majcenovič
 
 ##### Trening
+
 | Dan        | Ura           |
 |:-----------|:-------------:|
 | Ponedeljek | 20:00 - 21:30 |
