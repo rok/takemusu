@@ -9,7 +9,7 @@ title: Povezave
 
 ## Drugi klubi
 
-* [Zveza Takemusu](http://www.takemusu.org/)
+* [Zveza Takemusu Aikido Kyokai](http://www.takemusuaikidokyokai.org/)
 * [Zveza Takemusu Italija](http://www.taai.it/)
 * [Klub Izvor, Zagreb](http://www.aikido.hr/)
 * [Klub Musubi, Zagreb](http://www.aikido-musubi.hr/)
